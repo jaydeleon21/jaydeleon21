@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaydeleon21
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data Science, Data Engineering and Cloud Computing
 - 🌱 I’m currently learning Data Science and Data Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
